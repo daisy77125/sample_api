@@ -1,0 +1,26 @@
+[
+  {
+    "domainName": "www.google.com",
+    "domainOwner": "Google",
+    "ownerId": "93fb0057-fe62-4ea5-a4a3-089854a441ae",
+    "domainId": "93fa0057-fe62-4ea5-a4a3-089854a441ae"
+  },
+  {
+    "domainName": "www.google.ca",
+    "domainOwner": "Google",
+    "ownerId": "93fb0057-fe62-4ea5-a4a3-089854a441ae",
+    "domainId": "93bb0057-fe62-4ea5-a4a3-089854a441ae"
+  },
+  {
+    "domainName": "www.firefox.com",
+    "domainOwner": "Firefox",
+    "ownerId": "93fa0057-fe62-4fa5-a4a3-089854a441ae",
+    "domainId": "93fa0057-fe62-4ea5-a4a3-089854a4413e"
+  },
+  {
+    "domainName": "www.yahoo.com",
+    "domainOwner": "Yahoo",
+    "ownerId": "13fa0057-fe62-4ea5-a4a3-089854a441ae",
+    "domainId": "93fa0057-fe62-4ea5-a4a3-089858a441ae"
+  }
+]
